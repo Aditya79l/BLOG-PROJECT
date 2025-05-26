@@ -1,6 +1,6 @@
 # BLOG-PROJECT
 
-# ABCD Fullstack App
+#  Fullstack App
 
 A Node.js + Express.js app with MongoDB, Passport authentication, user profiles, and image uploads via Cloudinary.
 
